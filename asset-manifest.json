@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/SorveteriaReact/static/css/main.6f0beffe.css",
+    "main.js": "/SorveteriaReact/static/js/main.83148327.js",
+    "static/media/IMG.png": "/SorveteriaReact/static/media/IMG.e0d853b0c1bde97a24be.png",
+    "static/media/efect2.webp": "/SorveteriaReact/static/media/efect2.13597adde122df4bede7.webp",
+    "static/media/sorveteMain.png": "/SorveteriaReact/static/media/sorveteMain.e37ac0ebb1db125181cc.png",
+    "static/media/efect.webp": "/SorveteriaReact/static/media/efect.6f0bc414b2d864bfe06e.webp",
+    "static/media/img.webp": "/SorveteriaReact/static/media/img.7f611cc7ec724541a8a6.webp",
+    "static/media/img.jpg": "/SorveteriaReact/static/media/img.e9f2eb365d0a5d06ad77.jpg",
+    "static/media/img5.jpg": "/SorveteriaReact/static/media/img5.236b2fb524fb4d0266c1.jpg",
+    "static/media/img2.jpg": "/SorveteriaReact/static/media/img2.cf019677f176fa35143f.jpg",
+    "static/media/img1.jpg": "/SorveteriaReact/static/media/img1.2f81a32e57421e1b9e0c.jpg",
+    "static/media/img4.jpg": "/SorveteriaReact/static/media/img4.f4025ce8eafa3c2242a2.jpg",
+    "static/media/img3.jpg": "/SorveteriaReact/static/media/img3.0f4bf7005a6c8690ae69.jpg",
+    "static/media/ondas.svg": "/SorveteriaReact/static/media/ondas.106872b008277a00c248.svg",
+    "index.html": "/SorveteriaReact/index.html",
+    "static/media/close.svg": "/SorveteriaReact/static/media/close.794a9cde26c38ff6bb066032df98fb39.svg",
+    "static/media/open.svg": "/SorveteriaReact/static/media/open.0671bc5b9388995c7446ee5e448f585d.svg",
+    "main.6f0beffe.css.map": "/SorveteriaReact/static/css/main.6f0beffe.css.map",
+    "main.83148327.js.map": "/SorveteriaReact/static/js/main.83148327.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0beffe.css",
+    "static/js/main.83148327.js"
+  ]
+}
